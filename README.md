@@ -21,9 +21,9 @@ This code retains most of the features of [OpenRDW], so we also highly recommend
 
 ### Simple Setup
 
-This project was developed using Unity 2019.4.31f1. To get started, clone the project and open it.
+This project now targets Unity 6 (6000.0.0f1). To get started, clone the project and open it with Unity 6.
 
-To use all the features, you will need to install two additional plugins: [PUN 2 - FREE](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922) and the [SteamVR Plugin](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647). Simply download and import them using Unity's package manager when needed.
+To use all the features, you will need to install three additional plugins: [PUN 2 - FREE](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922), the [BNG Framework](https://github.com/BNGFramework/BNGFramework) for VR interactions, and the [SteamVR Plugin](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647). Simply download and import them using Unity's package manager when needed.
 
 Once you have everything set up, open the ***OpenRDW Scene*** and start playing to see the visualized simulation process!
 
